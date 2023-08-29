@@ -1,0 +1,1 @@
+{"version":3,"file":"view.js","mappings":";;;;;AAAA;AACAA,OAAO,CAACC,GAAG,CAAC,uDAAuD,CAAC;AACpE,8B","sources":["webpack://restful-block/./src/view.js"],"sourcesContent":["/* eslint-disable no-console */\nconsole.log('Hello World! (from restful-block-restful-block block)');\n/* eslint-enable no-console */\n"],"names":["console","log"],"sourceRoot":""}
